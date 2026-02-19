@@ -45,7 +45,8 @@ python alphabet_game.py
 
 ## 📷 Example Output
 
-<img width="469" height="887" alt="1" src="https://github.com/user-attachments/assets/ec78fffa-c858-47b0-af35-4b523179fffe" />
+<img width="365" height="871" alt="1" src="https://github.com/user-attachments/assets/fdd97402-c397-4f96-be06-3201d7ebcfaa" />
+
 
 
 ---
